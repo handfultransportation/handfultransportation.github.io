@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../website/css"
+		},
+		{
+			"path": "../website/fonts"
+		},
+		{
+			"path": "../website/images"
+		},
+		{
+			"path": "../website/js"
+		},
+		{
+			"path": "../website/sass"
+		}
+	],
+	"settings": {}
+}
