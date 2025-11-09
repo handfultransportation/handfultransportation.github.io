@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: 700;
   font-family: "Source Sans Pro", Arial, sans-serif;
   position: relative;
-  top: -15px;
+  top: -5px;
 }
 .fh5co-nav #fh5co-logo a {
   color: #000;
@@ -164,6 +164,10 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 5px;
   left: 0;
 }
+.menu-1 {
+  margin-top: 20px;
+}
+
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1 {
     display: none;
@@ -188,6 +192,9 @@ h1, h2, h3, h4, h5, h6, figure {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
+.fh5co-nav ul li a:hover {
+  font-weight: bold;
+} 
 .fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active {
   color: black;
 }
