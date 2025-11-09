@@ -148,6 +148,8 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: bold;
   font-weight: 700;
   font-family: "Source Sans Pro", Arial, sans-serif;
+  position: relative;
+  top: -15px;
 }
 .fh5co-nav #fh5co-logo a {
   color: #000;
